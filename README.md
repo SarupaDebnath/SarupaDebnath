@@ -1,4 +1,6 @@
-## Hi there 👋
+#Hi there 👋
+
+💫 About Me
 - 🔭 I’m currently working on applying data science tools and techniques to optimize Plunger Lift systems and improve well management at Ambyint.
 - 🌱 I’m currently learning how to integrate data science methods with real-time well monitoring systems, and enhancing my understanding in data integration and data monitoring
 - ⚡ I love exploring new restaurants in Calgary, especially those with a great atmosphere and unique dishes!
